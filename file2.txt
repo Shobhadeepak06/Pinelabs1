@@ -1,1 +1,3 @@
 this is my second file
+modyfing by dev1
+modyfying by dev 2 adding features
